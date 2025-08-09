@@ -16,7 +16,7 @@ The balance between pantheons is fragile. Some gods respect the boundaries, focu
 ## Protagonist Profile
 - **Name**: (TBD)
 - **Age**: Late 20s
-- **Background**: Former historian and linguist specializing in Norse sagas, unexpectedly chosen by Odin after a mysterious chain of events.
+- **Background**: Former historian and linguist specializing in Norse sagas. Believes he was chosen by Odin after a mysterious chain of events, but in truth, his selection fulfills a long-standing promise Odin made to the previous Avatar.
 - **Role**: The mortal Avatar of Odin, All-Father of the Norse pantheon.
 - **Gift**: A shard of Odin’s wisdom, battle insight, and the ability to subtly inspire belief in Odin through deeds, words, and symbols.
 - **Personality**: Independent-minded, pragmatic, and morally driven. While respectful of Odin’s power, he refuses to blindly obey orders that conflict with his own sense of justice.
